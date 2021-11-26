@@ -26,4 +26,4 @@ Trained models are uploaded in the models folder. If any issue then can also be 
 ## Report & Presentation Slides
 Presentation Slides : [link](https://docs.google.com/presentation/d/1Q3NL6joyN5TFvJH1nZwLFilw43Yg4TkKpz-FOfwjlaU/edit?usp=sharing)
 
-Report : [Link](https://docs.google.com/document/d/1dGjkBYMYE-jk75LxpmbpnYC2RXAoFAxGKdFdJ03sOBs/edit?usp=sharing)
+Report : [link](https://docs.google.com/document/d/1dGjkBYMYE-jk75LxpmbpnYC2RXAoFAxGKdFdJ03sOBs/edit?usp=sharing)
